@@ -1,2 +1,4 @@
-blackid
-    test: 10
+balckIP:
+  continueCounts: 10
+  timeInterval: 10
+  limitTimes: 15
